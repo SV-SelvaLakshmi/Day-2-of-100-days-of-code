@@ -6,3 +6,4 @@ int main()
   printf("%d",var);
   return 0;
 }
+//ERROR : Assingment of read only variable
