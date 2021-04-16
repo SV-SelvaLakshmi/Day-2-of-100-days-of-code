@@ -7,5 +7,5 @@ int main()
    return 0;
 }
 /*Output
-23
+Result of expression a*b+c is 23
 */
